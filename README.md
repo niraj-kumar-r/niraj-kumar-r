@@ -2,7 +2,8 @@
 - 👨 I'm a student, currently a fresher pursuing B.Tech in CSE from IIT Tirupati [Dec 2021]
 - 👀 I’m interested in machine learning, and web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development, and I also have experience in python
+- 💞️ I’m looking to collaborate on web development
+- 😎 I also have experience in python
 - 📫 How to reach me : You can DM me on Twitter @niraj_kumar_r
 
 <!---
