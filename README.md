@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niraj-kumar-r
-- 👨 I'm a student, currently a fresher pursuing B.Tech in CSE from IIT Tirupati [Dec 2021]
+- 👨 I'm a student, currently a fresher pursuing B.Tech in CSE at IIT Tirupati [Dec 2021 - 2025]
 - 👀 I’m interested in machine learning, and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
