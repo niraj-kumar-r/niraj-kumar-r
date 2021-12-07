@@ -8,9 +8,11 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
 - 😎 I also have experience in python
-- 📫 How to reach me :
--- You can DM me on Twitter [@niraj_kumar_r](https://twitter.com/niraj_kumar_r)
--- Check out my [Linked In profile](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
+
+## 📫 How to reach me :
+
+- You can DM me on Twitter [@niraj_kumar_r](https://twitter.com/niraj_kumar_r)
+- Check out my [Linked In profile](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
 
 <!---
 niraj-kumar-r/niraj-kumar-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
