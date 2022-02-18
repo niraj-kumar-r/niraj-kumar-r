@@ -12,10 +12,8 @@
 
 ## 📫 Contact me :
 
-[![Twitter svg](twitter.svg)](https://twitter.com/niraj_kumar_r) [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/niraj-kumar-5323b0227/) <a href="mailto:nirajk23523@gmail.com" style="transform: scale(4.33)"><img src="mail.svg"></a>
+[![Twitter svg](twitter.svg)](https://twitter.com/niraj_kumar_r) [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
 
--   You can DM me on Twitter [@niraj_kumar_r](https://twitter.com/niraj_kumar_r)
--   Check out my [Linked In profile](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
 -   Check out challenges completed by me on [Frontend Mentor](https://www.frontendmentor.io/profile/niraj-kumar-r)
 
 <!---
