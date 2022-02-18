@@ -10,7 +10,9 @@
 -   🌱 I’m currently learning web development and would love to collaborate
 -   😎 I am also proficient in python
 
-## 📫 How to reach me :
+## 📫 Contact me :
+
+[![Twitter Animated Logo](twitter.gif)](https://twitter.com/niraj_kumar_r)
 
 -   You can DM me on Twitter [@niraj_kumar_r](https://twitter.com/niraj_kumar_r)
 -   Check out my [Linked In profile](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
