@@ -1,6 +1,6 @@
 # Niraj Kumar
 
-![Intro Banner](Hi.mp4)
+![Intro Banner](Hi.png)
 
 ## About Me
 
