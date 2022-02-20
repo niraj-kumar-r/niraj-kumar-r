@@ -12,7 +12,7 @@
 
 ## 📫 Contact me :
 
-[![Twitter svg](twitter.svg)](https://twitter.com/niraj_kumar_r) [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/niraj-kumar-5323b0227/)
+[![Twitter svg](twitter.svg)](https://twitter.com/niraj_kumar_r) [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/niraj-kumar-r/)
 
 -   Check out challenges completed by me on [Frontend Mentor](https://www.frontendmentor.io/profile/niraj-kumar-r)
 
