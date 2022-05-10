@@ -1,6 +1,6 @@
 # Niraj Kumar
 
-![Intro Banner](Hi.png)
+![Intro Banner](MyHeader.png)
 
 ## About Me
 
