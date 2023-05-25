@@ -5,7 +5,7 @@
 ## About Me
 
 -   👋 Hi, I’m [@niraj-kumar-r](https://github.com/niraj-kumar-r)
--   👨 I'm a student, currently a second year pursuing B.Tech in CSE at IIT Tirupati [Dec 2021 - 2025]
+-   👨 I'm a student, currently a third year pursuing B.Tech in CSE at IIT Tirupati [Dec 2021 - 2025]
 -   👀 I’m interested in machine learning, and web development
 -   🌱 I’m currently learning web development and would love to collaborate
 -   😎 I am also proficient in python
